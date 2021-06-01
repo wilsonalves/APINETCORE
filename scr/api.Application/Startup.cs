@@ -34,7 +34,7 @@ namespace application
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //git
             app.UseRouting();
 
             app.UseAuthorization();
