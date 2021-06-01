@@ -1,0 +1,9 @@
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.CrossCuting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
