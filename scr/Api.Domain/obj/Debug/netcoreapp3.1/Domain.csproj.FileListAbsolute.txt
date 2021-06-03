@@ -1,0 +1,9 @@
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
