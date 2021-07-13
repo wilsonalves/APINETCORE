@@ -65,3 +65,8 @@ C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api
 C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\walvesdealme\Documents\Cursos Udemy\Curso api net core - marcio\scr\api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs

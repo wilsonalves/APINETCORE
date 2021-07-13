@@ -5,8 +5,12 @@
     <ProjectReference Include="..\Api.CrossCuting\CrossCutting.csproj" />
     <ProjectReference Include="..\Api.Data\Data.csproj" />
     <ProjectReference Include="..\Api.Service\Service.csproj" />
-  </ItemGroup>
+    </ItemGroup>
+    
 
+<ItemGroup>
+  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+</ItemGroup>
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
