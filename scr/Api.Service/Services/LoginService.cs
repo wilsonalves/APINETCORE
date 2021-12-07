@@ -23,7 +23,7 @@ namespace Api.Service.Services
             }
             else
             {
-                return baseUser;
+                return null;
             }
 
 
