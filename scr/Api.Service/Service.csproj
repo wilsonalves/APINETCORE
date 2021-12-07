@@ -3,7 +3,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Api.Domain\Domain.csproj" />
     <ProjectReference Include="..\Api.Data\Data.csproj" />
-   
+    
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
+  
   </ItemGroup>
 
   <PropertyGroup>
