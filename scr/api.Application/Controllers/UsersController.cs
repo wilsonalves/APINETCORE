@@ -1,8 +1,10 @@
 using System;
 using System.Net;
 using System.Threading.Tasks;
+using Api.Domain.Dtos.User;
 using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.User;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Application.Controllers
@@ -19,6 +21,9 @@ namespace api.Application.Controllers
         {
             _service = service;
         }
+
+
+        [Authorize("Bearer")]
         [HttpGet]
         public async Task<ActionResult> GetAll()
         {
@@ -38,6 +43,7 @@ namespace api.Application.Controllers
 
         }
         //localhost:5000/api/Users/2894389439584
+        [Authorize("Bearer")]
         [HttpGet]
         [Route("{id}", Name = "GETID")]
         public async Task<ActionResult> Get(Guid id)
@@ -58,9 +64,10 @@ namespace api.Application.Controllers
 
         }
 
+        [Authorize("Bearer")]
         [HttpPost]
         [Route("")]
-        public async Task<ActionResult> Post([FromBody] UserEntity user)
+        public async Task<ActionResult> Post([FromBody] UserDto user)
         {
 
             if (!ModelState.IsValid)
@@ -87,9 +94,10 @@ namespace api.Application.Controllers
             }
         }
 
+        [Authorize("Bearer")]
         [HttpPut]
 
-        public async Task<ActionResult> PUT([FromBody] UserEntity user)
+        public async Task<ActionResult> PUT([FromBody] UserDto user)
         {
 
             if (!ModelState.IsValid)
@@ -117,6 +125,7 @@ namespace api.Application.Controllers
             }
         }
 
+        [Authorize("Bearer")]
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(Guid id)
         {
