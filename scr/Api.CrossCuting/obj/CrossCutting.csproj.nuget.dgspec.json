@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj": {}
+    "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj": {
+    "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj",
+        "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\walvesdealme\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\obj\\",
+        "outputPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.CrossCuting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
               },
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
               },
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
+    "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\walvesdealme\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -105,8 +105,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\walvesdealme\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,14 +221,14 @@
         }
       }
     },
-    "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj": {
+    "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\walvesdealme\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -247,11 +247,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
               },
-              "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
               }
             }
           }

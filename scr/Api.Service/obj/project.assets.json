@@ -5314,11 +5314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
+      "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\walvesdealme\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\obj\\",
+      "outputPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5337,11 +5337,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
-              "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
+            "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Data\\Data.csproj"
             },
-            "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj"
             }
           }
         }

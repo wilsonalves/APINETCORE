@@ -63,18 +63,16 @@ namespace Api.Data.Repository
             return item;
         }
 
-        public async Task<T> SelectAsync(Guid Id)
+        public async Task<T> SelectAsync(Guid id)
         {
             try
             {
-                return await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(Id));
+                return await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(id));
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
-
         }
 
         public async Task<IEnumerable<T>> SelectAsync()
@@ -85,7 +83,6 @@ namespace Api.Data.Repository
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
         }

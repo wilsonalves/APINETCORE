@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzJ5PimTWpbYFg5V8SzlWj3UzGataDD0iJIgSupXI0/naUha+PI8Lf7yk/8UxTpRsOrgtCpy0WMvNzBtLriHnw==",
+  "dgSpecHash": "x4Ll8sCEuG8lP23A0vTtGJMuvuRktAiEnfc07K3YfKuipwwIM+XFzg7m25RBvKRjtoXkdUcyJmy3TmBd0IbGdw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\walvesdealme\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",

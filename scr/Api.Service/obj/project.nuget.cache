@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sfIIyCtQB5OSOJBIenTqCE2OznMPKmwWLQUFOEj8TCw4RJQmPhwli/AdNP0QBPson3uem3N+/rCQEJpRghzr+g==",
+  "dgSpecHash": "l+lGE0sToISX7BpX6K3UuOcCNNmin/Umv2EG3E0XePAYxTF9NkeEJbp7BLaWEPe1WQx9uP0GquHFKREpW9YYBQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\walvesdealme\\Documents\\Cursos Udemy\\Curso api net core - marcio\\scr\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\walvesdealme\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\walvesdealme\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
